@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+build/
+dist/
+Lib/
+scripts/
+pyvenv.cfg
+program.spec
+src/__pycache__
+src/controllers/__pycache__
+src/models/__pycache__
+src/views/__pycache__
